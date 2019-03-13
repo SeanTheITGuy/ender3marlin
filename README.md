@@ -22,6 +22,6 @@ Marlin-1.1.9.hex	- Vanilla Marlin, 1.1.9. Final version as of code freeze. Confi
 
 Marlin-1.1.x-bugfix.hex	- Vanilla Marlin, 1.1.x-bugfix. No modification of features. Configured for Ender 3.
 
-Marlin_1.1.x-bugfix_Mesh_Leveling.hex - Vanilla Marlin, 1.1.x. Arc Support and Boot Screen Logo disabled to allow room for Mesh Leveling feature. Configured for Ender 3.
+Marlin_1.1.x-bugfix_Mesh_Leveling.hex - Vanilla Marlin, 1.1.x-bugfix. Arc Support and Boot Screen Logo disabled to allow room for Mesh Leveling feature. Configured for Ender 3.
 
 --------------
