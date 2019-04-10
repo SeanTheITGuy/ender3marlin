@@ -24,4 +24,6 @@ Marlin-1.1.x-bugfix.hex	- Vanilla Marlin, 1.1.x-bugfix. No modification of featu
 
 Marlin_1.1.x-bugfix_Mesh_Leveling.hex - Vanilla Marlin, 1.1.x-bugfix. Arc Support and Boot Screen Logo disabled to allow room for Mesh Leveling feature. Configured for Ender 3.
 
+Marlin-2.0.x-bugfix_Mesh_Leveling.hex - Vanilla Marlin, 2.0.x-bugfix. Arc support and boot screen logo disabled to allow room for Mesh leveling feature. Configured for Ender 3. I have tested this for several weeks and it seems perfectly cromulent.
+
 --------------
